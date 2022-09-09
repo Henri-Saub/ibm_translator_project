@@ -1,6 +1,8 @@
+"""Installation file"""
+
 from setuptools import setup, find_packages
 
-with open('requirements.txt') as f:
+with open('requirements.txt', encoding='UTF-8') as f:
     requirements = f.read().splitlines()
 
 setup(name='ibm-translator-project',
