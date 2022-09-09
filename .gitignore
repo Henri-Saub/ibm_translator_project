@@ -3,3 +3,4 @@ build/
 ibm_translator_project.egg-info/
 src/__pycache__/
 tests/__pycache__/
+.idea/
